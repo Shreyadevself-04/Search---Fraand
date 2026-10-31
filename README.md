@@ -1,1 +1,1 @@
-# Task_Manager_app_1
+# AI powered Information Analysis Platform 
